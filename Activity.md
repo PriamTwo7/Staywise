@@ -8,5 +8,5 @@ Section: BSCPE - 3B
 
 - Ambross Priam Dela Cruz — Leader
 - Arwind Dela Cruz - Frontend Developer
-- [Member 3] — Backend Developer
+- Gerrico Matito — Backend Developer
 - [Member 4] — Documentation/Tester
