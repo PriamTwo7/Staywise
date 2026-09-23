@@ -1,8 +1,8 @@
 # Lab 1 Activity
 
 ## Course Information
-Course: Software Design
-Section: BSCPE 304 / 304L
+Course: Computer Engineering
+Section: BSCPE - 3B
 
 ## Members and Roles
 
