@@ -7,7 +7,7 @@ Section: BSCPE - 3B
 ## Members and Roles
 
 - Priam Dela Cruz — Leader
-- [Member 2] — Frontend Developer
+- Arwind Dela Cruz - Frontend Developer
 - [Member 3] — Backend Developer
 - [Member 4] — Documentation/Tester
 
@@ -16,7 +16,7 @@ Section: BSCPE - 3B
 ### Priam Dela Cruz
 [Assigned answer/section]
 
-### [Member 2]
+### Arwind Dela Cruz
 [Assigned answer/section]
 
 ### [Member 3]
